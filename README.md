@@ -11,5 +11,6 @@ I am Thirupathi Challa from Karimangar, India. I am currently pursuing full-stac
 👯 I’m currently  looking for new oppurtunities in full stack web development.
 
             
-🛠 Tech & Tools Preference
-git status
+
+## 🛠Tech & Tools  Preferences
+
