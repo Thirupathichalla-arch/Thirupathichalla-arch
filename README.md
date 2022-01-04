@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Thirupathichalla-arch/Thirupathichalla-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Thirupathi Challa from Karimangar, India. I am currently pursuing full-stack web development at Masai School.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning and building projects using Mern Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Exceling in every aspect.
+
+💬 Ask me about my projects.
+
+👯 I’m currently  looking for new oppurtunities in full stack web development.
+
+            
+🛠 Tech & Tools Preference
