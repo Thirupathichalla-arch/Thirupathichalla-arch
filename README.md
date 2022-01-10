@@ -15,9 +15,9 @@ I am Thirupathi Challa from Karimangar, India. I am currently pursuing full-stac
 	<a href="https://www.linkedin.com/in/thirupathi-challa-465ba8184/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-<!-- 	<a href="https://twitter.com/raman_boddula"> 
+	<a href="https://twitter.com/ThirupathiChal5"> 
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a> -->
+	</a> 
 <!-- 	<a href="https://www.instagram.com/raman_chinna_/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a> -->
@@ -27,7 +27,7 @@ I am Thirupathi Challa from Karimangar, India. I am currently pursuing full-stac
 	<a href="https://medium.com/me/stories/public">
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a>
-        <a href="#">
+        <a href="https://thirupathichalla-arch.github.io/Portfolio/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	</p>
@@ -58,7 +58,7 @@ I am Thirupathi Challa from Karimangar, India. I am currently pursuing full-stac
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+<!-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📈 Stats
